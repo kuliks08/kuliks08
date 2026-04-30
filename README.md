@@ -22,7 +22,7 @@ and high-load data processing. Focus: fast commercial launch + automation.**
 - ⚡ Process **10,000+ CRM records/day** via Bitrix24 batch API
 - 📱 Ship Telegram Mini Apps for the Central Asian market (🇷🇺 🇬🇧 🇰🇿)
 - 🎓 Applied Informatics @ MTI + DPO Business Process Automation *(in progress)*
-- 🌍 Astana, Kazakhstan
+- 🌍 Almaty, Kazakhstan
 
 ---
 
