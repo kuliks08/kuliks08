@@ -82,6 +82,10 @@ Content generation pipelines · Automated testing · AI-powered SaaS features
 ---
 
 ## 📌 Featured Projects
+### 🚀 [Chence Generations](https://chence-generations.com)
+B2B lead generation SaaS platform. Multi-project management, predictive auto-dialing,
+robot call campaigns, CRM pipeline, telephony integrations, client billing.
+`Laravel` `Vue 3` `MySQL` `Redis` `Docker` `Telephony API`
 
 ### 📊 [AccountAnalytics](https://github.com/kuliks08/account-analytics)
 B2B SaaS analytics & CRM automation platform. Subscription model, real-time dashboards, Bitrix24 sync.
