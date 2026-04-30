@@ -72,9 +72,9 @@ Content generation pipelines · Automated testing · AI-powered SaaS features
 |------|--------|
 | 💰 SaaS payback period | **14 days** post-launch |
 | ⚡ Bitrix24 batch sync | **10,000+ records / day** |
-| 🏗️ Chence Generations | Live B2B SaaS · 🔴 Offline |
 | 📂 CSV/SFTP pipeline | Enterprise-scale import with dedup & validation |
 | 🤖 AI content pipeline | Fully automated via Perplexity LLM |
+| 🏗️ Chence Generations | Live B2B SaaS · 🟢 Online |
 | 📱 Telegram Mini Apps | Deployed · Russian / English / Kazakh |
 | 💳 Subscription billing | SaaS monetization with recurring revenue |
 | 📊 Analytics platform | Real-time dashboards · balance control · limits |
@@ -132,6 +132,6 @@ Developer tool for simulating API responses, auth flows, and edge cases without 
 
 <div align="center">
 <sub>Building SaaS products that pay for themselves — fast. &nbsp;|&nbsp; Open to collaboration on AI & automation projects.</sub>
-  
-<sub>⚡ Auto-updated daily · Last update: 30 April 2026, 14:49 (Almaty)</sub>
+<sub>⚡ Auto-updated daily · Last update: 30 April 2026, 15:42 (Almaty)</sub>
 </div>
+
