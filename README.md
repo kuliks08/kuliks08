@@ -128,6 +128,8 @@ Developer tool for simulating API responses, auth flows, and edge cases without 
 &nbsp;&nbsp;
 ![GitLab Stats](https://gitlab-readme-counter.vercel.app/api?username=kuliks08&theme=tokyonight&hide_border=true)
 
+![GitLab Stats](https://gitlab-readme-counter.vercel.app/stats?username=kuliks08&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
