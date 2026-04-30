@@ -27,13 +27,9 @@ jobs:
         run: python generate_readme.py
 
       - name: Commit and push if changed
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git fetch origin main
-          git reset --hard origin/main
-          python generate_readme.py
-          git add README.md
-          git diff --staged --quiet && echo "Nothing to commit" && exit 0
-          git commit -m "docs: auto-update README [$(date +'%Y-%m-%d')]"
-          git push origin main
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: auto-update README"
+          file_pattern: README.md
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com
