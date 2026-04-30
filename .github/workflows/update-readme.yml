@@ -30,7 +30,10 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git reset --hard origin/main
+          python generate_readme.py
           git add README.md
           git diff --staged --quiet && echo "Nothing to commit" && exit 0
           git commit -m "docs: auto-update README [$(date +'%Y-%m-%d')]"
-          git push --force-with-lease origin main
+          git push origin main
