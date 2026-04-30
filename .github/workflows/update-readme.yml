@@ -2,8 +2,8 @@ name: Update Dynamic README
 
 on:
   schedule:
-    - cron: '0 9 * * *'   # Every day at 09:00 UTC (12:00 Almaty time)
-  workflow_dispatch:        # Allow manual trigger anytime
+    - cron: '0 9 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -33,5 +33,4 @@ jobs:
           git add README.md
           git diff --staged --quiet && echo "Nothing to commit" && exit 0
           git commit -m "docs: auto-update README [$(date +'%Y-%m-%d')]"
-          git pull --rebase origin main
-          git push origin main
+          git push --force-with-lease origin main
