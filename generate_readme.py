@@ -176,7 +176,8 @@ Developer tool for simulating API responses, auth flows, and edge cases without 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuliks08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 &nbsp;&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuliks08&layout=compact&theme=tokyonight&hide_border=true)
-
+&nbsp;&nbsp;
+![GitLab Stats](https://gitlab-readme-counter.vercel.app/api?username=kuliks08&theme=tokyonight&hide_border=true)
 </div>
 
 ---
