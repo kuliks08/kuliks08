@@ -126,8 +126,7 @@ Developer tool for simulating API responses, auth flows, and edge cases without 
 &nbsp;&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuliks08&layout=compact&theme=tokyonight&hide_border=true)
 &nbsp;&nbsp;
-![GitLab Stats](https://gitlab-readme-counter.vercel.app/api?username=kuliks08&theme=tokyonight&hide_border=true&animate=true)
-
+![GitLab Stats](https://gitlab-readme-counter.vercel.app/api?username=kuliks08&theme=tokyonight&hide_border=true)
 </div>
 
 ---
@@ -135,6 +134,6 @@ Developer tool for simulating API responses, auth flows, and edge cases without 
 <div align="center">
 <sub>Building SaaS products that pay for themselves — fast. &nbsp;|&nbsp; Open to collaboration on AI & automation projects.</sub>
 
-<sub>⚡ Auto-updated daily · Last update: 30 April 2026, 16:17 (Almaty)</sub>
+<sub>⚡ Auto-updated daily · Last update: 01 May 2026, 15:14 (Almaty)</sub>
 </div>
 
